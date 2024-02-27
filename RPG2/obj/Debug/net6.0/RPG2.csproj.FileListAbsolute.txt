@@ -1,0 +1,15 @@
+C:\Users\lest0823\source\repos\RPG2\RPG2\bin\Debug\net6.0\RPG2.exe
+C:\Users\lest0823\source\repos\RPG2\RPG2\bin\Debug\net6.0\RPG2.deps.json
+C:\Users\lest0823\source\repos\RPG2\RPG2\bin\Debug\net6.0\RPG2.runtimeconfig.json
+C:\Users\lest0823\source\repos\RPG2\RPG2\bin\Debug\net6.0\RPG2.dll
+C:\Users\lest0823\source\repos\RPG2\RPG2\bin\Debug\net6.0\RPG2.pdb
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.csproj.AssemblyReference.cache
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.AssemblyInfoInputs.cache
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.AssemblyInfo.cs
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.csproj.CoreCompileInputs.cache
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.dll
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\refint\RPG2.dll
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.pdb
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\RPG2.genruntimeconfig.cache
+C:\Users\lest0823\source\repos\RPG2\RPG2\obj\Debug\net6.0\ref\RPG2.dll
